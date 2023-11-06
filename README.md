@@ -1,4 +1,4 @@
-### Hi there 👋
+### The source code and pre-trained models will be released.
 
 <!--
 **JTE-CFlow/JTE-CFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
